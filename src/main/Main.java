@@ -10,7 +10,7 @@ public class Main {
 		System.out.println("Enter total vertices:");
         int t = scan.nextInt();
 		int adjMat [][] = new int[t][t];
-		
+		ss
 		//oroinuudiin urtiig bichne
 		 System.out.println("Enter the adjacency matrix (separate elements with spaces): ");
 	        for (int q = 0; q < t; q++) 
