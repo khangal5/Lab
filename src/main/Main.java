@@ -23,8 +23,7 @@ public class Main {
 	    
 	    while(true)
 	    {
-	    	System.out.println("0. printall");
-	    	System.out.println("1. source to destination");
+	    
 	    	int command = scan.nextInt();
 	    	switch(command)
 	    	{
